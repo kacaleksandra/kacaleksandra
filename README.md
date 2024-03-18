@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aleksandra</h1>
-<h3 align="center">A student of fifth semester of Informatics</h3>
-
-- 🌱 I’m currently learning **Front-end and mobile technologies**
+<h3 align="center">A student of sixth semester of Informatics and full stack developer</h3>
 
 - 📫 How to reach me **kacprzakaleksandra@icloud.com**
 
